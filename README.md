@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma análise visual dos dados de imigração para o **Canadá** entre os anos de **1980 e 2013**, com recortes temáticos que incluem comparações por região, país de origem e tendências históricas. Utilizando Python e bibliotecas de visualização de dados, o objetivo é tornar as informações mais acessíveis e interpretáveis, revelando padrões migratórios ao longo do tempo.
 
-![exemplo-grafico](images/evolucao_imigracao_brasil.png)
+![exemplo-grafico](images/evolucao_imigracao_brasil_canada.png)
 
 ---
 
